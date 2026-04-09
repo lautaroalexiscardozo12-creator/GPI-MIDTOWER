@@ -2,7 +2,7 @@
 
 ##  Integrantes del Equipo
 - Lautaro Cardozo – Scrum Master (Git Master)
-- Juan – Product Owner (Documentalista)
+- Lucas Fretes – Product Owner (Documentalista)
 - Pedro – Dev Team (Investigador)
 - María – Dev Team (Investigador)
 
